@@ -3,7 +3,7 @@
 Hi 👋 My name is Chance Clements
 ================================
 
-I am learning the evolving world of web development to become a great front-end developer
+I am learning the ever evolving world of web development to become a great front-end developer
 
 *   🌍  I'm based in Houston, Texas
 *   ✉️  You can contact me at [cccchancec@hotmail.com](mailto:cccchancec@hotmail.com)
