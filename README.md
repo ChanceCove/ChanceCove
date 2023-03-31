@@ -8,7 +8,7 @@ I am learning the evolving world of web development to become a great front-end 
 
 *   🌍  I'm based in Houston, Texas
 *   ✉️  You can contact me at [cccchancec@hotmail.com](mailto:cccchancec@hotmail.com)
-*   🧠  I'm learning Javaxript,SQl and React
+*   🧠  I'm learning Javascript,SQl and React
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  I enjoy exercise and classical music### Skills 
 <p align="left">
