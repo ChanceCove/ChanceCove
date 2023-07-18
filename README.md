@@ -1,15 +1,13 @@
-### Hi there 👋
 
 Hi 👋 My name is Chance Clements
 ================================
+I
 
-I am learning the ever evolving world of web development to become a great front-end developer
-
-*   🌍  I'm based in Houston, Texas
+*   🌍  I am based in Houston, Texas
 *   ✉️  You can contact me at [cccchancec@hotmail.com](mailto:cccchancec@hotmail.com)
-*   🧠  I'm learning Javascript,SQl and React
-*   🤝  I'm open to collaborating on Projects
-*   ⚡  I enjoy exercise and classical music
+*   🧠  I am familiar with Javascript,Html,CSS and pursuing a B.A. in Global Cyber Security. 
+*   🤝  I am open to collaborating on Projects
+*   ⚡  I enjoy exercise,classical music, healthy living and continuous learning.
 
 ### Skills 
 <p align="left">
@@ -24,6 +22,9 @@ I am learning the ever evolving world of web development to become a great front
                
                                           
                                           
-   <p align="left"> <a href="https://www.github.com/ChanceCove" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chance-clements-97664722b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+                                           
+                                        
+                                        
+<p align="left"> <a href="https://www.github.com/ChanceCove" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chance-clements-97664722b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
                   
          
