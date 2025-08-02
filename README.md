@@ -5,9 +5,9 @@ Hi 👋 My name is Chance Clements
 
 *   🌍  I am based in Houston, Texas
 *   ✉️  You can contact me at [cccchancec@hotmail.com](mailto:cccchancec@hotmail.com)
-*   🧠  I am familiar with Javascript,HTML,CSS and I am pursuing a B.A. in Global Cyber Security at the University Of St. Thomas. 
+*   🧠  I am familiar with Javascript, HTML, CSS and I am pursuing a B.A. in Global Cyber Security at the University Of St. Thomas. 
 *   🤝  I am open to collaborating on Projects
-*   ⚡  I enjoy exercise,classical music,healthy living, and continuous learning.
+*   ⚡  I enjoy exercise, classical music, healthy living, and continuous learning.
 
 ### Skills 
 <p align="left">
